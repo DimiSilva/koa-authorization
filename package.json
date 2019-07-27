@@ -1,0 +1,24 @@
+{
+  "name": "koa-authorization",
+  "version": "1.0.1",
+  "description": "Middleware for authorization with koa",
+  "main": "lib/index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DimiSilva/koa-authorization.git"
+  },
+  "keywords": [
+    "koa",
+    "authorization",
+    "jwt",
+    "koa-jwt",
+    "security"
+  ],
+  "author": "Dimi Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DimiSilva/koa-authorization/issues"
+  },
+  "homepage": "https://github.com/DimiSilva/koa-authorization#readme"
+}
